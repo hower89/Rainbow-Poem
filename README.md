@@ -1,2 +1,2 @@
-# rainbow.txt
+# Rainbow-Poem
 Poem about rainbow
